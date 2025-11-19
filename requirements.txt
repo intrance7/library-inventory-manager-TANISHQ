@@ -1,2 +1,0 @@
-# Minimal requirements; standard library only required, but list pytest for tests
-pytest>=7.0.0
