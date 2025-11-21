@@ -4,9 +4,9 @@ A Python-based command-line application to manage a library’s book inventory.
 This project demonstrates **Object-Oriented Programming**, **JSON file handling**, **error handling**, and a **menu-driven CLI** as required in Lab Assignment 3.
 
 ---
-![SAMPLE](images/image1.jpg)
-![SAMPLE](images/image2.jpg)
-![SAMPLE](images/image3.jpg)
+![SAMPLE](images/image1.png)
+![SAMPLE](images/image2.png)
+![SAMPLE](images/image3.png)
 
 
 ## ✨ Features
